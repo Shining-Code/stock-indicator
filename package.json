@@ -1,0 +1,24 @@
+{
+  "name": "stock-indicator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shining-Code/stock-indicator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shining-Code/stock-indicator/issues"
+  },
+  "homepage": "https://github.com/Shining-Code/stock-indicator#readme",
+  "description": "",
+  "dependencies": {
+    "ccxt": "^4.5.0"
+  },
+  "type": "module"
+}
