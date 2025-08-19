@@ -10,12 +10,6 @@
 
 ---
 
-## Bảng mã màu tín hiệu  
-
-Theo **design**: iTrading - Broker (In progress) – Figma  
-
----
-
 ## Cách tính Xu thế & Tín hiệu  
 
 ### 1. Theo chỉ báo **MA9**
